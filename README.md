@@ -1,0 +1,2 @@
+# BackgroundGenerator
+Generates colorful Background
